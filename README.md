@@ -16,7 +16,7 @@ LeetMatric is a clean and responsive web application that allows users to enter 
 
 ## 🧪 Live Demo
 
-Coming soon... (or add your hosted link here if available)
+Coming soon...
 
 ## 📸 Preview
 
